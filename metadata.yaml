@@ -1,0 +1,36 @@
+_repo: Little-Frankie-at-His-Plays_33521
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33521-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Hattie, Aunt
+    - Baker, Harriette Newell Woods
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: Little Frankie at his plays -- Little Frankie on a journey.
+gutenberg_issued: '2010-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Play -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: Little Frankie at His Plays
+url: http://www.gutenberg.org/ebooks/33521
